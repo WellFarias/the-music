@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.themusic.backend.domain.InstrumentDomain&apos; to &apos;Instrument&apos;&#x0D;&#x0A;- Original project: &apos;the-music&apos;&#x0D;&#x0A;- Original element: &apos;com.themusic.backend.domain.InstrumentDomain&apos;&#x0D;&#x0A;- Renamed element: &apos;com.themusic.backend.domain.Instrument&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InstrumentDomain&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.themusic.backend.domain{InstrumentDomain.java[InstrumentDomain" matchStrategy="1" name="Instrument" qualified="false" references="true" similarDeclarations="false" stamp="1621951467261" textual="false" version="1.0"/>
+</session>
